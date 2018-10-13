@@ -1,0 +1,697 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nitt",
+				"nitt_dim_line"
+			],
+			[
+				"trans",
+				"transAxes"
+			],
+			[
+				"the",
+				"thegrainsize"
+			],
+			[
+				"run",
+				"run_model"
+			],
+			[
+				"calc",
+				"calculate"
+			],
+			[
+				"batch",
+				"batch_norm"
+			],
+			[
+				"ba",
+				"batch_size"
+			],
+			[
+				"bat",
+				"batch_norm"
+			],
+			[
+				"_lab",
+				"_label_batch"
+			],
+			[
+				"_ima",
+				"_image_batch"
+			],
+			[
+				"out",
+				"out_size"
+			],
+			[
+				"next",
+				"next_batch"
+			],
+			[
+				"label",
+				"label_batch"
+			],
+			[
+				"g_",
+				"g_prob"
+			],
+			[
+				"input",
+				"input_images_res"
+			],
+			[
+				"inp",
+				"input_images"
+			],
+			[
+				"la",
+				"label_batch"
+			],
+			[
+				"image",
+				"image_batch"
+			],
+			[
+				"im",
+				"image_batch"
+			],
+			[
+				"_in",
+				"_in_shape"
+			],
+			[
+				"image_",
+				"image_list"
+			],
+			[
+				"str",
+				"stratgan"
+			],
+			[
+				"rep",
+				"repeat_data"
+			],
+			[
+				"shuff",
+				"shuffle_data"
+			],
+			[
+				"bath",
+				"batch_size"
+			],
+			[
+				"Base",
+				"BaseImageProvider"
+			],
+			[
+				"par",
+				"parse_labels"
+			],
+			[
+				"cr",
+				"cropped_slices"
+			],
+			[
+				"crop",
+				"cropped_slices"
+			],
+			[
+				"n",
+				"n_cuts"
+			],
+			[
+				"crp",
+				"cropped_slice"
+			],
+			[
+				"strati",
+				"stratigraphy"
+			],
+			[
+				"btn_r",
+				"btn_reset_ax"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"chanLis",
+				"chanList"
+			],
+			[
+				"chanList",
+				"chanListOutdatedIdx"
+			],
+			[
+				"chanli",
+				"chanListPoly0"
+			],
+			[
+				"chan",
+				"chanListPoly0"
+			],
+			[
+				"new",
+				"new_minidx"
+			],
+			[
+				"old",
+				"old_minidx"
+			],
+			[
+				"co",
+				"coordinates"
+			],
+			[
+				"chanAtc",
+				"chanActShp"
+			],
+			[
+				"chanActSH",
+				"chanActShp_un"
+			],
+			[
+				"Qw",
+				"QwCmapIdx"
+			],
+			[
+				"format",
+				"format_number"
+			],
+			[
+				"suppo",
+				"supportLayout"
+			],
+			[
+				"iDocPag",
+				"iDocPageLayout"
+			],
+			[
+				"exec",
+				"exec"
+			],
+			[
+				"add",
+				"addWidget"
+			],
+			[
+				"title",
+				"titleFont"
+			],
+			[
+				"categ",
+				"categoryLabelText"
+			],
+			[
+				"prev",
+				"previewLabel"
+			],
+			[
+				"previ",
+				"previewPath"
+			],
+			[
+				"auth",
+				"authorLabel"
+			],
+			[
+				"QGr",
+				"QGridLayout"
+			],
+			[
+				"catego",
+				"categoryPath"
+			],
+			[
+				"etcButt",
+				"etcButtonsLayout"
+			],
+			[
+				"priva",
+				"privatePath"
+			],
+			[
+				"etc",
+				"etcAbout"
+			],
+			[
+				"butt",
+				"buttonLayout"
+			],
+			[
+				"button",
+				"buttonGrp"
+			],
+			[
+				"window",
+				"windowGeom"
+			],
+			[
+				"h",
+				"h"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/rouse_model_toy.py",
+			"settings":
+			{
+				"buffer_size": 6604,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils.py",
+			"settings":
+			{
+				"buffer_size": 7816,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimerepl: py",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andrew/Dropbox/git_repos/rouse_model_toy",
+		"/home/andrew/Dropbox/git_repos/rouse_model_toy/src"
+	],
+	"file_history":
+	[
+		"/home/andrew/Dropbox/course_work/mechanics_sed_s15/HW1/homework1.m",
+		"/home/andrew/Dropbox/yellow_river/data/surveyCode/datasrc/gsize_src/YR_sizes.siz",
+		"/home/andrew/Dropbox/course_work/mechanics_sed_s15/HW1/rouse_maker.m",
+		"/home/andrew/Dropbox/yellow_river/data/surveyCode/datasrc/gsize_src/YR_sizes_csv.siz",
+		"/home/andrew/Dropbox/research_misc/StratGAN/.gitignore",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN/model.py",
+		"/home/andrew/Dropbox/share_FJP/submission2/supp_scripts/X_sects.sh",
+		"/home/andrew/Desktop/bw_qs.m",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN/utils.py",
+		"/etc/x11/xorg.conf",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN/software_licenses.txt",
+		"/home/andrew/Dropbox/research_misc/TGS_salt/TGS_salt.sublime-project",
+		"/home/andrew/Dropbox/research_misc/StratGAN/process_images/nrand_process.py",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN-DCGAN/train_command",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN-DCGAN/utils.py",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN-DCGAN/ops.py",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN-DCGAN/model.py",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN-DCGAN/main.py",
+		"/home/andrew/Dropbox/research_misc/StratGAN/StratGAN_simple.py",
+		"/home/andrew/Dropbox/research_misc/StratGAN/process_images/nsplit_process.py",
+		"/home/andrew/Dropbox/research_misc/StratGAN/LICENSE",
+		"/home/andrew/Dropbox/git_repos/malvern2matlab/src/load_rawdata.m",
+		"/home/andrew/Dropbox/research_misc/stratigraphy_RNN/process_images/readme.md",
+		"/home/andrew/Dropbox/professional_development/resumes_and_cvs/CVs/CV_biblist_noemph.bib",
+		"/home/andrew/Dropbox/professional_development/resumes_and_cvs/CVs/CV_biblist.bib",
+		"/home/andrew/Dropbox/professional_development/resumes_and_cvs/CVs/030518/moodie_cv.tex",
+		"/home/andrew/Dropbox/professional_development/resumes_and_cvs/CVs/030518/moodie_cv.bcf",
+		"/home/andrew/Dropbox/git_repos/academic_cv_reflist/README.md",
+		"/home/andrew/Dropbox/Professional_Development/resumes_and_cvs/CVs/030518/moodie_cv.tex",
+		"/home/andrew/Dropbox/git_repos/random/cvlist.sty",
+		"/home/andrew/Dropbox/git_repos/rivers2stratigraphy/concave_hull.py",
+		"/home/andrew/Dropbox/git_repos/rivers2stratigraphy/test.py",
+		"/home/andrew/Dropbox/git_repos/research_outreach/floodingindeltas/src/channel.py",
+		"/home/andrew/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/modules/rivers/flowdischargeandsedimentload/module/module_discharge_sediment.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/modules/rivers/TestModule2/about.json",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/modules/rivers/TestModule1/about.json",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/stackTest.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/guiUtils/stdObjs.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/guiUtils/callback.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/guiUtils/__init__.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/guiUtils/placement.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/sededuGUI.py.bak",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/guiUtils/stdButtons.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/guiUtils/makeButtonGrid.py",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/__init__.py",
+		"/home/andrew/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/andrew/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+		"/home/andrew/Dropbox/git_repos/SedEdu/sededu/sededuGUI.py",
+		"/home/andrew/Dropbox/git_repos/sededu/.gitignore"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"calculate_profile_nitt",
+			"calculate_profile_mood",
+			"sigma",
+			"mu",
+			"step",
+			"_cb",
+			"_ustar",
+			"theustar",
+			"thegrainsize",
+			"sigma",
+			"mu",
+			"\t",
+			"slide_sigma",
+			"slide_mu",
+			"ax_mu",
+			"ax_filter",
+			"t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/rouse_model_toy.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/utils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 229.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.help":
+	{
+		"height": 100.0
+	},
+	"output.latextools":
+	{
+		"height": 240.0
+	},
+	"pinned_build_system": "Packages/User/conda_36.sublime-build",
+	"project": "rouse_model_toy.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
