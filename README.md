@@ -1,16 +1,18 @@
-# The Stratigraphic Filter
+# The Rouse-Vannoni-Ippen concentration profile 
 
-This explores the erosional stratigraphic filter on stratigraphy with a simple one-dimensional model of surface elevation over time.
+This module explores the variables that control the Rouse-Vannoni-Ippen vertical concentration profile for suspended sediment.
 
-This repository is also linked into the [SedEdu suite of education modules](https://github.com/amoodie/sededu), and can be accessed there as well.
+This repository is also linked into the [SedEdu suite of education modules](https://github.com/sededu/sededu), and can be accessed there as well.
 
 ![demo image](./private/demo.png "demo of the module")<!-- .element height="50%" width="50%" -->
 
+## Explanation of the model
 
+.............
 
 ## Installation and running the module
 
-Visit the section of the text below for more information on installing and executing the `stratigraphic_filter_toy` program on your computer. 
+Visit the section of the text below for more information on installing and executing the `rouse_model_toy` program on your computer. 
 
 
 ### Requirements
@@ -28,20 +30,20 @@ Whatever method you choose, you will need to install the dependencies. installat
 ### Download the source code
 
 #### grab the zip
-You can download this entire repository as a `.zip` by clicking the "Clone or download button on this page", or by [clicking here](https://github.com/amoodie/stratigraphic_filter_toy/archive/master.zip) to get a `.zip` folder. Unzip the folder in your preferred location.
+You can download this entire repository as a `.zip` by clicking the "Clone or download button on this page", or by [clicking here](https://github.com/sededu/rouse_model_toy/archive/master.zip) to get a `.zip` folder. Unzip the folder in your preferred location.
 
 #### git 
 If you have installed `git` and are comfortable working with it, you can simply clone the repository to your preferred location.
 
 ```
-https://github.com/amoodie/stratigraphic_filter_toy.git
+https://github.com/sededu/rouse_model_toy.git
 ```
 
 
 ### Run the module
 Run the module by command line, with
 ```
-python3 <path-to-the-repo-folder>/src/stratigraphic_filter_toy.py
+python3 <path-to-the-repo-folder>/src/rouse_model_toy.py
 ```
 
 
