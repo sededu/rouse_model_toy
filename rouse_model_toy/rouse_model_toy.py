@@ -206,7 +206,7 @@ mood_dim_line, = ax_dim.plot(eps_dim_mood, z, lw=2, color='green')
 nitt_nondim_line, = ax_nondim.plot(eps_nondim_nitt, z_nondim_nitt, lw=2, color='blue')
 mood_nondim_line, = ax_nondim.plot(eps_nondim_mood, z_nondim_mood, lw=2, color='green')
 
-info_text = fig.text(0.6, 0.2, numformat(ws/ustar, P), transform=ax_dim.transAxes, size=14)
+info_text = fig.text(0.6, 0.2, numformat(ws/ustar, P),  size=14)
 fig.legend((nitt_dim_line, mood_dim_line), ('simplified', 'full'), loc=(0.6, 0.08))
 
 # add sliders
