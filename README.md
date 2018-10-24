@@ -5,10 +5,12 @@ This module explores the variables that control the Rouse-Vannoni-Ippen vertical
 This repository is also linked into the [SedEdu suite of education modules](https://github.com/sededu/sededu), and can be accessed there as well.
 
 ![demo image](./private/demo.png "demo of the module")<!-- .element height="50%" width="50%" -->
+<img src="https://github.com/sededu/rouse_model_toy/blob/master/private/demo.png" alt="demo_gif">
+
 
 ## Explanation of the model
 
-.............
+.................
 
 ## Installation and running the module
 
