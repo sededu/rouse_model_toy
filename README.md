@@ -9,7 +9,27 @@ This repository is also linked into the [SedEdu suite of education modules](http
 
 ## Explanation of the model
 
-.................
+I find it helpful when teaching the Rouse distribution model to explain the formulation in a simplified model before going to the full model. 
+It is easier for students to intuit how the variables will impact the concentration profile in this way.
+
+The simplified model is useful for teaching the mechanics of the concentration profile and can be defined as:
+
+<img src="https://github.com/sededu/rouse_model_toy/blob/master/private/simplified_model.png" alt="demo_gif" width="150" align="center">
+
+where _c_ is the concentration at height above the bed _z_, _cb_ is a known reference concentration defined at height _b_ above the bed, and _ZR_ is the Rouse number given as:
+
+<img src="https://github.com/sededu/rouse_model_toy/blob/master/private/rouse.png" alt="demo_gif" width="150" align="center">
+
+where _ws_ is the settling velocity of the grain size in question, _α_ and _κ_ are constants equal to 1 and 0.41, and _u*_ is the shear velocity.
+
+You can see from the form of this simplified model how, for a constant Rouse number, the profile is an exponential decay from the reference concentration. It is also easy to see how changing the Rouse number, through a change in grain size (settling velocity) or shear velocity will change the rate of decay.
+
+The full model has just an additional term to consider, but has the same basic exponential decay form. Here, _H_ is just the total flow depth.
+
+<img src="https://github.com/sededu/rouse_model_toy/blob/master/private/full_model.png" alt="demo_gif" width="150" align="center">
+
+The module uses the Garcia-Parker entrainment relation to calculate near-bed concentration, and used the Ferguson-Church relation for settling velocity.
+
 
 ## Installation and running the module
 
