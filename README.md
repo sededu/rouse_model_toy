@@ -26,7 +26,7 @@ You can see from the form of this simplified model how, for a constant Rouse num
 
 The full model has just an additional term to consider, but has the same basic exponential decay form. Here, _H_ is just the total flow depth.
 
-<img src="https://github.com/sededu/rouse_model_toy/blob/master/private/full_model.png" alt="demo_gif" width="150" align="center">
+<img src="https://github.com/sededu/rouse_model_toy/blob/master/private/full_model.png" alt="demo_gif" width="200" align="center">
 
 The module uses the Garcia-Parker entrainment relation to calculate near-bed concentration, and used the Ferguson-Church relation for settling velocity.
 
