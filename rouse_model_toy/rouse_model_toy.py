@@ -17,7 +17,7 @@ kappa = 0.41
 # some constants
 rop = 2650.0 # density of particle in kg/m3
 rof = 1000.0 # density of water in kg/m3
-nu = 1.002*1E-3 # dynamic viscosity in Pa*s at 20 C
+nu = 1.002*1E-6 # dynamic viscosity in Pa*s at 20 C
 C1 = 18 # constant in Ferguson-Church equation
 C2 = 1 # constant in Ferguson-Church equation
 R = (rop-rof)/rof
